@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596826644343.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3228599251",
+    "id" : "62AD4730",
+    "lastKnownWriteTime" : 1596828461,
+    "last_content_update" : 1596828461898,
+    "path" : "~/GitHub/TortoiseEggModel/EDM_MAIN_SCRIPT_1_5.R",
+    "project_path" : "EDM_MAIN_SCRIPT_1_5.R",
+    "properties" : {
+        "cursorPosition" : "455,2",
+        "scrollLine" : "452"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
